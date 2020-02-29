@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-plugin-mapull-default",
+  "version": "1.0.0",
+  "description": "gitbook plugin for mapull.com website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapull/gitbook-plugin-mapull-default.git"
+  },
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "mapull"
+  ],
+  "author": "mapull",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapull/gitbook-plugin-mapull-default/issues"
+  },
+  "homepage": "https://github.com/mapull/gitbook-plugin-mapull-default#readme"
+}
