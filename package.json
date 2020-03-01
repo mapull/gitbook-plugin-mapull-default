@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-mapull-default",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "gitbook plugin for mapull.com website",
   "main": "index.js",
   "scripts": {
