@@ -2,10 +2,10 @@ module.exports = {
     website: {
         assets: './assets',
         js: [
-            'mapull.js'
+            'mapull.min.js'
         ],
         css: [
-            'mapull.css'
+            'mapull.min.css'
         ]
     }
 };
